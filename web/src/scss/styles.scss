@@ -4,6 +4,14 @@ $li-yl-col: #fbbd0b;
 $li-wh-col: #FFFFFF;
 $li-bk-col: #000000;
 
-li-nav {
+.li-container {
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.li-nav {
     background: $li-pri-col
 }
